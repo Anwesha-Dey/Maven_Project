@@ -1,0 +1,6 @@
+projectKey=com.training:maven_project
+serverUrl=http://localhost:9000
+serverVersion=7.0.0.36138
+dashboardUrl=http://localhost:9000/dashboard/index/com.training:maven_project
+ceTaskId=AYPL5bd_sQC2pDw-culd
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYPL5bd_sQC2pDw-culd
